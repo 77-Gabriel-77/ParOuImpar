@@ -1,2 +1,2 @@
 # ParOuImpar
-Projeto console que informa se um número é par ou ínpar
+Projeto console que informa se um número é par ou ímpar
